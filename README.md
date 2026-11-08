@@ -20,8 +20,6 @@ Also: the [BCA Computer Programming Team website](https://github.com/yash-korgao
 
 ### Private repositories
 
-Source code for these is private.
-
 | Project | What it does | Stack |
 |---|---|---|
 | **FitVision** | Home workout app with a virtual trainer: real-time form and rep feedback from MediaPipe pose keypoints, and an ML model that sets rep targets from past performance. | React, MediaPipe, D3.js, Supabase, Auth0 |

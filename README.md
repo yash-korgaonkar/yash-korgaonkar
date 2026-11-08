@@ -6,7 +6,6 @@ I'm a senior at Bergen County Academies (Academy for Technology and Computer Sci
 - **Industry:** Software engineering intern at Magestic Technologies (full-stack; currently ML for machine-cutting temperature optimization)
 - **Publication:** Tremor-suppression glove, accepted to the *NJAS Junior Bulletin* (co-authored)
 - **Community:** Co-founder of the BCA Machine Learning Club · Instructor & webmaster, BCA Computer Programming Team · Lead Sensei, Code Ninjas
-- **Competitive programming:** USACO Silver · ACSL Intermediate Invitational qualifier
 
 ---
 

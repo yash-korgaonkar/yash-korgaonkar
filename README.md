@@ -36,7 +36,7 @@ These are in private repos because they are team projects or hold deployment con
 
 ## Tools I use
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | Python, Java, JavaScript, TypeScript, C# |
 | **Machine learning** | PyTorch, TensorFlow / Keras, scikit-learn, Gymnasium, Hugging Face Transformers, pandas, NumPy |

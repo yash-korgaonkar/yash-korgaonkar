@@ -13,11 +13,10 @@ I'm an aspiring computer scientist drawn to the intersection of machine learning
 | **[TremorSync](https://github.com/yash-korgaonkar/TremorSync)** | Mobile app for tracking Parkinsonian tremor and bradykinesia: a Raspberry Pi bridge streams live tremor readings to the app through Firestore, and guided finger-tapping tests measure motor slowing against the user's baseline. | React Native (Expo), TypeScript, Firebase, Raspberry Pi |
 | **[Thermopolis](https://github.com/Kunj-Parikh/Thermopolis)** | 3D city-building game about the urban heat island effect. Turns satellite imagery of any real town into a playable map using in-browser semantic segmentation. | React Three Fiber, Transformers.js (SegFormer), Firebase |
 | **[Attention Guard](https://github.com/NikhilMaalige/EndofYear2026)** | Chrome extension that detects when you drift off task, using an ML classifier on browsing behavior plus Gemini to judge whether content matches your goal. | JavaScript, Python, scikit-learn, Gemini API |
+| **[NutriLog](https://github.com/yash-korgaonkar/NutriLog)** | AI nutrition tracker: describe a meal in plain English and Gemini breaks it into foods and nutrients. Offline-first PWA; all data stays on the device. | JavaScript, Gemini API, IndexedDB, Chart.js |
 | **[Project Lovematch](https://github.com/yash-korgaonkar/PLM-Website)** | Website for a nonprofit that runs tennis sessions for children with developmental challenges. Live at [projectlovematch.com](https://www.projectlovematch.com). | React, React Router |
 
-**Also:**
-- [NutriLog](https://github.com/yash-korgaonkar/NutriLog): AI nutrition tracker. Describe a meal in plain English and Gemini breaks it into foods and nutrients. (JavaScript, Gemini API, IndexedDB)
-- [BCA Computer Programming Team website](https://github.com/yash-korgaonkar/CPT-Website-BCA) (Next.js, TypeScript)
+Also: the [BCA Computer Programming Team website](https://github.com/yash-korgaonkar/CPT-Website-BCA) (Next.js, TypeScript).
 
 ### Private repositories
 

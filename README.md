@@ -23,7 +23,7 @@ Source code for these is private.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **FitVision** | Home workout app with a virtual trainer: real-time form and rep feedback from MediaPipe pose keypoints, and an ML model that sets rep targets from past performance. | React, MediaPipe, D3.js, AWS |
+| **FitVision** | Home workout app with a virtual trainer: real-time form and rep feedback from MediaPipe pose keypoints, and an ML model that sets rep targets from past performance. | React, MediaPipe, D3.js, Supabase, Auth0 |
 | **TremorSync** | Mobile app for tracking tremor and bradykinesia: a Raspberry Pi wearable streams tremor events through Firestore to a React Native app with guided motor tests and severity trends. | React Native (Expo), TypeScript, Firebase, Raspberry Pi |
 | **Receptify** | Scans grocery receipts and alerts you when something you bought is recalled, using OCR and the FDA enforcement database. | React Native, Firebase, Tabscanner OCR, Gemini API |
 | **ServSmart** | Forecasts a restaurant's daily customer volume two weeks out: a Keras neural network trained on business attributes and a 14-day weather forecast, with Gemini turning a free-text business description into model features. | React, Flask, TensorFlow / Keras, Gemini API |
@@ -35,7 +35,9 @@ Source code for these is private.
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python, Java, JavaScript, TypeScript, C# |
-| **Machine learning** | PyTorch, TensorFlow / Keras, scikit-learn, Gymnasium, Hugging Face Transformers, pandas, NumPy |
-| **Web and mobile** | React, React Native (Expo), Next.js, Node.js, Express, MongoDB, Firebase, Flask |
-| **Cloud and DevOps** | AWS (Certified Cloud Practitioner), GitHub Actions, Docker |
+| **Programming languages** | Python, Java, JavaScript, TypeScript, C, C#, R, SQL, HTML/CSS |
+| **Machine learning** | TensorFlow / Keras, PyTorch, scikit-learn, XGBoost, Hugging Face Transformers, Pandas, NumPy, MediaPipe, Reinforcement learning, Gymnasium |
+| **Web and mobile** | React, React Native, Next.js, Node.js, Express, Flask, Firebase, PostgreSQL, MongoDB, D3.js |
+| **Hardware** | Raspberry Pi, Sensors and servos, Fusion 360, 3D printing |
+| **Genomics and data** | GWAS, Regenie, UK Biobank, Statistical testing |
+| **Tools and platforms** | Git, AWS (Certified Cloud Practitioner), Linux, Docker, GitHub Actions, Unity, Godot |

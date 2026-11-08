@@ -19,13 +19,15 @@ Also: the [BCA Computer Programming Team website](https://github.com/yash-korgao
 
 ### Private repositories
 
-These are in private repos because they are team projects or hold deployment configuration.
+Source code for these is private.
 
-- **FitVision:** Home workout app with a virtual trainer: real-time form and rep feedback from MediaPipe pose keypoints, and an ML model that sets rep targets from past performance.
-- **TremorSync:** Mobile app for tracking tremor and bradykinesia: a Raspberry Pi wearable streams tremor events through Firestore to a React Native app with guided motor tests and severity trends.
-- **Receptify:** Scans grocery receipts and alerts you when something you bought is recalled, using OCR and the FDA enforcement database. React Native, Firebase, Gemini.
-- **ServSmart:** Forecasts a restaurant's daily customer volume two weeks out: a Keras neural network trained on business attributes and a 14-day weather forecast, with Gemini turning a free-text business description into model features.
-- **Civic Alert:** Mobile app that ingests government sources and local news every 12 hours, filters for laws that affect residents (keyword stage + AI classifier), and pushes plain-English summaries.
+| Project | What it does | Stack |
+|---|---|---|
+| **FitVision** | Home workout app with a virtual trainer: real-time form and rep feedback from MediaPipe pose keypoints, and an ML model that sets rep targets from past performance. | React, MediaPipe, D3.js, AWS |
+| **TremorSync** | Mobile app for tracking tremor and bradykinesia: a Raspberry Pi wearable streams tremor events through Firestore to a React Native app with guided motor tests and severity trends. | React Native (Expo), TypeScript, Firebase, Raspberry Pi |
+| **Receptify** | Scans grocery receipts and alerts you when something you bought is recalled, using OCR and the FDA enforcement database. | React Native, Firebase, Tabscanner OCR, Gemini API |
+| **ServSmart** | Forecasts a restaurant's daily customer volume two weeks out: a Keras neural network trained on business attributes and a 14-day weather forecast, with Gemini turning a free-text business description into model features. | React, Flask, TensorFlow / Keras, Gemini API |
+| **Civic Alert** | Mobile app that ingests government sources and local news every 12 hours, filters for laws that affect residents (keyword stage + AI classifier), and pushes plain-English summaries. | React Native (Expo), Firebase, Gemini API, GitHub Actions |
 
 ---
 

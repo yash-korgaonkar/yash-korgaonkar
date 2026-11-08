@@ -36,7 +36,9 @@ These are in private repos because they are team projects or hold deployment con
 
 ## Tools I use
 
-**Languages:** Python · Java · JavaScript / TypeScript · C#
-**ML:** PyTorch · TensorFlow / Keras · scikit-learn · Gymnasium · Hugging Face Transformers · pandas / NumPy
-**Web & mobile:** React · React Native (Expo) · Next.js · Node.js / Express · MongoDB · Firebase · Flask
-**Cloud:** AWS (Certified Cloud Practitioner) · GitHub Actions · Docker
+| | |
+|---|---|
+| **Languages** | Python, Java, JavaScript, TypeScript, C# |
+| **Machine learning** | PyTorch, TensorFlow / Keras, scikit-learn, Gymnasium, Hugging Face Transformers, pandas, NumPy |
+| **Web and mobile** | React, React Native (Expo), Next.js, Node.js, Express, MongoDB, Firebase, Flask |
+| **Cloud and DevOps** | AWS (Certified Cloud Practitioner), GitHub Actions, Docker |

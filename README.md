@@ -1,13 +1,8 @@
 # Hi, I'm Yash Korgaonkar
 
-I'm a senior at Bergen County Academies (Academy for Technology and Computer Science) in New Jersey. I build machine learning systems for problems where the stakes are real (drug safety, health, transportation) and the software around them so people can actually use them.
+Senior, Academy for Technology and Computer Science · Bergen County Academies
 
-- **Research:** Regeneron HSM research on genetic factors behind accelerated brain aging (brain age gap)
-- **Industry:** Software engineering intern at Magestic Technologies (full-stack; currently ML for machine-cutting temperature optimization)
-- **Publication:** Tremor-suppression glove, accepted to the *NJAS Junior Bulletin* (co-authored)
-- **Community:** Co-founder of the BCA Machine Learning Club · Instructor & webmaster, BCA Computer Programming Team · Lead Sensei, Code Ninjas
-
----
+I'm an aspiring computer scientist drawn to the intersection of machine learning and biology. I love building technology that tackles real problems in health and medicine, and sharing what I learn by teaching others to code.
 
 ## Featured projects
 
